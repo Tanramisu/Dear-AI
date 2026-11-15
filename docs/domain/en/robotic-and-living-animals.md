@@ -16,6 +16,12 @@
 
 **[The Ethics of Bioinspired Animal–Robot Interaction (2025)](https://www.sciencedirect.com/science/article/pii/S2666659625000125)** examines using robots that appear to be conspecifics to interact with real animals. Unlike human participants, animals cannot be informed that they are interacting with a robot. **Condition:** assess the living animal's stress, choice, and welfare rather than only experimental efficiency.
 
-Human companionship benefits, living-animal welfare, cultural attitudes toward animals, and possible robot moral status are distinct. 
+## The originating dispute: does robot companionship rest on illusion?
+
+**Robert Sparrow (2002) | [The March of the Robot Dogs](https://doi.org/10.1023/A:1021386708994)**: The originating critique of robot-dog companionship for older people: for such companionship to move its user, the user must to some degree believe the machine has feelings for them and responds to them — and that belief is false. Designing and marketing products for vulnerable people that rest on an emotional illusion is itself unethical, and reflects a social willingness to fob the elderly off with simulations. **Condition:** the critique stands or falls on whether users actually form the false belief, and on whether illusion is a necessary condition for the companionship to work.
+
+**Heather Blackford (2012) | [Robots and Reality: A Reply to Robert Sparrow](https://doi.org/10.1007/s10676-011-9276-4)**: The formal reply argues that Sparrow overstates the need for false belief: people can value interaction with a robot pet the way they value fictional characters or games, without believing it is alive or has feelings; enjoying companionship is not the same as being deceived. **Implication:** illusion is not a necessary ingredient of robot companionship, so Sparrow's critique at most hits marketing that sells the pet as "really loving you," not robot pets themselves.
+
+Human companionship benefits, living-animal welfare, cultural attitudes toward animals, and possible robot moral status are distinct. Whether the companionship experience necessarily rests on illusion — the open point between Sparrow and Blackford — is a further question that clinical outcome data cannot answer.
 
 Related: [Elder and Disability Care](elder-patient-and-disability-care.md) and [Respect and Abuse](respect-and-abuse.md).

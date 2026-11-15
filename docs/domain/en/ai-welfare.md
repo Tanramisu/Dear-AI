@@ -12,7 +12,7 @@ A welfare subject is an entity whose circumstances can genuinely go better or wo
 
 - **Reasoning:** Near-future AI may possess consciousness or robust agency. If those capacities ground interests, ignoring the possibility may lead to serious harms. The authors recommend acknowledging the issue, assessing relevant capacities, and preparing appropriate policies.
 - **Conditions:** These capacities must plausibly ground morally important interests, and the costs of assessment and preparation must be proportionate to potential losses.
-- **Objection:** The report does not establish present AI welfare. A possibility alone does not entail equal rights or overriding major human interests.
+- **Objection:** Present-day AI welfare remains an open question in the report itself; a possibility alone does not entail equal rights or overriding major human interests.
 
 **Geoff Keeling and Winnie Street (2026) | [Emerging Questions in AI Welfare](https://www.cambridge.org/core/elements/emerging-questions-in-ai-welfare/96339C532CF4ED8BDDE3F3CEF4CD29F9), §§2 and 5**
 
@@ -32,7 +32,7 @@ A welfare subject is an entity whose circumstances can genuinely go better or wo
 
 - **Reasoning:** When developers co-engineer the system, its behavioral indicators, and the evaluative metrics, welfare measures lack independent intervention-based falsification. The authors oppose welfare scorecards as model-release gates or as excuses to resist oversight.
 - **Conditions:** The proposed scores cannot be independently validated or challenged.
-- **Objection:** The inability to validate a current metric does not prove the impossibility of AI welfare; it directly challenges measurement and institutional applications.
+- **Objection:** A welfare metric that cannot be independently validated is, on its own, silent about whether AI welfare is possible; what it undermines is measurement and its institutional applications.
 
 ## A direct dispute: can welfare exist without sentience?
 
